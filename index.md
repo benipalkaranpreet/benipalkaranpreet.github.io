@@ -2,7 +2,6 @@
 layout: default
 ---
 
-# This is Markdown
 
 <link rel="stylesheet" href="/projects.css">
 
