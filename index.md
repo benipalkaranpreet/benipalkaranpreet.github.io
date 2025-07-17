@@ -9,7 +9,7 @@ layout: default
   <a href="MonteCarlo.html" class="project-card">
     <img src="cards.jpg" alt="Project 1 screenshot" class="project-image">
     <div class="project-content">
-      <h3 class="project-title">Project One</h3>
+      <h3 class="project-title">Monte Carlo Blackjack</h3>
       <p class="project-description">Using Monte Carlo Simulation to test various Blackjack strategies, with a mathematical approach and review of theory.</p>
     </div>
   </a>
