@@ -6,11 +6,11 @@ layout: default
 <link rel="stylesheet" href="/projects.css">
 
 <div class="project-grid">
-  <a href="project1.html" class="project-card">
-    <img src="bird.jpg" alt="Project 1 screenshot" class="project-image">
+  <a href="MonteCarlo.html" class="project-card">
+    <img src="cards.jpg" alt="Project 1 screenshot" class="project-image">
     <div class="project-content">
       <h3 class="project-title">Project One</h3>
-      <p class="project-description">A brief description of Project One goes here.</p>
+      <p class="project-description">Using Monte Carlo Simulation to test various Blackjack strategies, with a mathematical approach and review of theory.</p>
     </div>
   </a>
 
