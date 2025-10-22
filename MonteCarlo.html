@@ -523,6 +523,11 @@ counters.</li>
 are included here for interest. An understanding of these functions is
 not needed to understand the results or the concepts of Monte Carlo
 Simulation.</p>
+
+<details>
+  <summary> Click to show code. </summary>
+  
+
 <pre class="r"><code># Create the deck
 create_deck &lt;- function(num_decks = 1) {
   ranks &lt;- c(2:10, &quot;J&quot;, &quot;Q&quot;, &quot;K&quot;, &quot;A&quot;)
@@ -667,6 +672,7 @@ play_blackjack &lt;- function(deck, cards_seen, player_play, placed_bet, player_
   # return deck, cards seen, money in and money out
   return(list(deck = deck, cards_seen = cards_seen, payout = payout+ins_pay, bet = total_bet+ins_bet)) 
 }</code></pre>
+</details>
 </div>
 <div id="simulation-functions" class="section level1">
 <h1>5. Simulation Functions</h1>
@@ -1730,3 +1736,4 @@ $(document).ready(function () {
 
 </body>
 </html>
+
