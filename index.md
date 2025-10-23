@@ -14,7 +14,7 @@ layout: default
     </div>
   </a>
 
-  <a href="project2.html" class="project-card">
+  <a href="test.pdf" class="project-card">
     <img src="flower.jpg" alt="Project 2 screenshot" class="project-image">
     <div class="project-content">
       <h3 class="project-title">Project Two</h3>
