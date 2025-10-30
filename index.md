@@ -14,11 +14,11 @@ layout: default
     </div>
   </a>
 
-  <a href="test.pdf" class="project-card">
+  <a href="HPO.pdf" class="project-card">
     <img src="flower.jpg" alt="Project 2 screenshot" class="project-image">
     <div class="project-content">
-      <h3 class="project-title">Project Two</h3>
-      <p class="project-description">A short description of Project Two goes here.</p>
+      <h3 class="project-title">Hyper-Parameter Optimziation</h3>
+      <p class="project-description">Exploration of current Hyperparameter Optimziation Techniques. Comparing: Grid Search, Random Search, Bayesian Optimization, Hyperband and Sequential Uniform Designs.</p>
     </div>
   </a>
 </div>
