@@ -5,6 +5,8 @@ layout: default
 
 <link rel="stylesheet" href="/projects.css">
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/karanpreet-benipal-1b1426239/)
+
 <div class="project-grid">
     <a href="HPO.pdf" class="project-card">
     <img src="flower.jpg" alt="Project 2 screenshot" class="project-image">
