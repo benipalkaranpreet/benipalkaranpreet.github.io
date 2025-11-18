@@ -15,6 +15,13 @@ layout: default
       <p class="project-description">Exploration of some current Hyperparameter Optimziation Techniques. Comparing: Grid Search, Random Search, Bayesian Optimization, Hyperband and Sequential Uniform Designs.</p>
     </div>
   </a>
+  <a href="mc_mthods.html" class="project-card">
+    <img src="cover2.png" alt="Project 2 screenshot" class="project-image">
+    <div class="project-content">
+      <h3 class="project-title">Monte Carlo Methods</h3>
+      <p class="project-description">Markov Chain Monte Carlo and Hamiltonian Monte Carlo Methods explored and explained.</p>
+    </div>
+  </a>
   <a href="MonteCarlo.html" class="project-card">
     <img src="cards.jpg" alt="Project 1 screenshot" class="project-image">
     <div class="project-content">
