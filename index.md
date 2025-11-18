@@ -19,7 +19,7 @@ layout: default
     <img src="cover2.png" alt="Project 2 screenshot" class="project-image">
     <div class="project-content">
       <h3 class="project-title">Monte Carlo Methods</h3>
-      <p class="project-description">Markov Chain Monte Carlo and Hamiltonian Monte Carlo Methods explored and explained.</p>
+      <p class="project-description">Markov Chain Monte Carlo and Hamiltonian Monte Carlo Methods explored and explained. Theory and examples with R code.</p>
     </div>
   </a>
   <a href="MonteCarlo.html" class="project-card">
