@@ -15,7 +15,7 @@ layout: default
       <p class="project-description">Exploration of some current Hyperparameter Optimziation Techniques. Comparing: Grid Search, Random Search, Bayesian Optimization, Hyperband and Sequential Uniform Designs.</p>
     </div>
   </a>
-  <a href="mc_mthods.html" class="project-card">
+  <a href="mc_methods.html" class="project-card">
     <img src="cover2.png" alt="Project 2 screenshot" class="project-image">
     <div class="project-content">
       <h3 class="project-title">Monte Carlo Methods</h3>
