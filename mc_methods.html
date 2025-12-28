@@ -1169,25 +1169,6 @@ as we are hopefully close to the target distribution.<br />
 Stage 3: Dual-Averaging again to adjust <span class="math inline">\(\bar\epsilon\)</span> for the new M.<br />
 Stage 4: No more adjustment, just get more samples.<br />
 </p>
-</div>
-<div id="no-u-turn-sampler-nuts" class="section level4">
-<h4>No U-turn Sampler (NUTS)</h4>
-<p>The last algorithm I will present in the blog is nuts. It is also
-called NUTS. The No U-Turn Sampler was proposed by Hoffman and Gelman
-(2011) in this <a href="https://arxiv.org/pdf/1111.4246">paper</a>. As
-of the writing of this blog I am working on better understanding this
-algorithm. It is not intuitive like the others presented above.<br />
-NUTS extends HMC and tries to eliminate the need to specify the number
-of steps L. It recursively builds a binary tree, which stores candidate
-positions, after picking the initial momentum it random moves either
-forward or backwards at each iteration. Iteration j adds <span class="math inline">\(2^j\)</span> nodes to the tree. It stops when a
-u-turn is detected. The next state is a point reached before the U-turn.
-Thus “no u-turns”. You may think this is a lot to take in. I agree. I
-intend to update this blog, or make a separate one, once I have working
-implementation of NUTS and can understand it well enough to provide a
-good explanation. Until then, you will just have to wait (or read the
-paper on your own).<br />
-</p>
 <p>Thank you for reading! &lt;3</p>
 </div>
 <div id="sources" class="section level4">
