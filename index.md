@@ -8,7 +8,7 @@ layout: default
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/karanpreet-benipal-1b1426239/)
 
 <div class="project-grid">
-    <a href="HPO.pdf" class="project-card">
+    <a href="writing_sample_HPO.pdf" class="project-card">
     <img src="flower.jpg" alt="Project 2 screenshot" class="project-image">
     <div class="project-content">
       <h3 class="project-title">Hyper-Parameter Optimziation</h3>
